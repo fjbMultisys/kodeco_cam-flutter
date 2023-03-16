@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "click_to_share" "\0"
+            VALUE "FileDescription", "quick_shot" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "click_to_share" "\0"
+            VALUE "InternalName", "quick_shot" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "click_to_share.exe" "\0"
-            VALUE "ProductName", "click_to_share" "\0"
+            VALUE "OriginalFilename", "quick_shot.exe" "\0"
+            VALUE "ProductName", "quick_shot" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

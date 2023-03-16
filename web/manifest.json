@@ -1,6 +1,6 @@
 {
-    "name": "click_to_share",
-    "short_name": "click_to_share",
+    "name": "quick_shot",
+    "short_name": "quick_shot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -18,6 +18,10 @@ allprojects {
     }
 }
 
+defaultConfig {
+    minSdkVersion 21
+}
+
 rootProject.buildDir = '../build'
 subprojects {
     project.buildDir = "${rootProject.buildDir}/${project.name}"

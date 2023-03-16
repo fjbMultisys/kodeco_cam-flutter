@@ -1,33 +1,28 @@
 PODS:
-  - camera (0.0.1):
-    - Flutter
-  - esys_flutter_share (0.0.1):
+  - camera_avfoundation (0.0.1):
     - Flutter
   - Flutter (1.0.0)
-  - path_provider (0.0.1):
+  - path_provider_foundation (0.0.1):
     - Flutter
+    - FlutterMacOS
 
 DEPENDENCIES:
-  - camera (from `.symlinks/plugins/camera/ios`)
-  - esys_flutter_share (from `.symlinks/plugins/esys_flutter_share/ios`)
+  - camera_avfoundation (from `.symlinks/plugins/camera_avfoundation/ios`)
   - Flutter (from `Flutter`)
-  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
 
 EXTERNAL SOURCES:
-  camera:
-    :path: ".symlinks/plugins/camera/ios"
-  esys_flutter_share:
-    :path: ".symlinks/plugins/esys_flutter_share/ios"
+  camera_avfoundation:
+    :path: ".symlinks/plugins/camera_avfoundation/ios"
   Flutter:
     :path: Flutter
-  path_provider:
-    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/ios"
 
 SPEC CHECKSUMS:
-  camera: a0ca5080336f7af47b88436e5e26da3dee5568f0
-  esys_flutter_share: 403498dab005b36ce1f8d7aff377e81f0621b0b4
+  camera_avfoundation: 3125e8cd1a4387f6f31c6c63abb8a55892a9eeeb
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
-  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
 
 PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
 

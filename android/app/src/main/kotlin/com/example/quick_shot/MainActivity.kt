@@ -1,4 +1,4 @@
-package com.example.click_to_share
+package com.example.quick_shot
 
 import io.flutter.embedding.android.FlutterActivity
 

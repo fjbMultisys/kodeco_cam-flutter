@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.click_to_share">
+    package="com.example.quick_shot">
    <application
-        android:label="click_to_share"
+        android:label="quick_shot"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
